@@ -8,24 +8,25 @@
 
 ### En esta app se encuentra:
   <br />
-- Arquitectura MVVM y clean code
+- MVVM architecture and clean code
 - Fragments
 - Navigation Component
 - Gradle KTS
-- Inyección de dependencias
-- StateFlow y corrutinas
+- Dependency injection
+- StateFlow and coroutines
 - RecyclerView
-- Retrofit, interceptors y mappers
+- Retrofit, interceptors and mappers
 - Intents
-- Animaciones
+- Animations
+
 
 <a href="./harryHouse.PNG"><img src="./harryHouse.PNG" style="height: 50%; width:50%;"/></a>
 
-Una vez elegida la casa nos llevara a su respectiva lista:
+Once the house has been chosen, it will take us to its respective list:
 
 <a href="./harryDetail.PNG"><img src="./harryDetail.PNG" style="height: 50%; width:50%;"/></a>
 
-Tambien tenemos otro fragment de suerte:
+We also have another fragment of luck:
 
 <a href="./HarryLuck.PNG"><img src="./HarryLuck.PNG" style="height: 50%; width:50%;"/></a>
 
