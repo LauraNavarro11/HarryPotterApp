@@ -6,7 +6,7 @@
 * [Retrofit](https://github.com/square/retrofit)
 * [HarryAPI](https://hp-api.onrender.com/)
 
-  En esta app se encuentra:
+### En esta app se encuentra:
   <br />
 - Arquitectura MVVM y clean code
 - Fragments
@@ -26,6 +26,7 @@ Una vez elegida la casa nos llevara a su respectiva lista:
 <a href="./harryDetail.PNG"><img src="./harryDetail.PNG" style="height: 50%; width:50%;"/></a>
 
 Tambien tenemos otro fragment de suerte:
+
 <a href="./HarryLuck.PNG"><img src="./HarryLuck.PNG" style="height: 50%; width:50%;"/></a>
 
 
