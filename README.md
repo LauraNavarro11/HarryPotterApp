@@ -7,7 +7,9 @@
 * [HarryAPI](https://hp-api.onrender.com/)
 
 ### En esta app se encuentra:
+
   <br />
+
 - MVVM architecture and clean code
 - Fragments
 - Navigation Component
@@ -15,7 +17,7 @@
 - Dependency injection
 - StateFlow and coroutines
 - RecyclerView
-- Retrofit, interceptors and mappers
+- Retrofit
 - Intents
 - Animations
 
