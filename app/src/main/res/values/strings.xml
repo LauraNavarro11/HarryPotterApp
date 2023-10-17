@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">HarryPotterApp</string>
+    <string name="houses">Houses</string>
+    <string name="Luck">Luck</string>
+
+    <!-- Houses -->
+    <string name="gryffindor">Gryffindor</string>
+    <string name="slytherin">Slytherin</string>
+    <string name="ravenclaw">Ravenclaw</string>
+    <string name="hufflepuff">Hufflepuff</string>
+
+    <!--Luck -->
+    <string name="luck_0">"A new opportunity will bring unexpected success your way."</string>
+    <string name="luck_1">"You'll meet someone who will change your life for the better."</string>
+    <string name="luck_2">"An exciting journey awaits you in the near future."</string>
+    <string name="luck_3">"A creative project will lead to recognition and fulfillment."</string>
+    <string name="luck_4">"You'll overcome a significant challenge and emerge stronger."</string>
+    <string name="luck_5">"Financial abundance is on the horizon; stay patient."</string>
+    <string name="luck_6">"A long-lost friend will reconnect with you soon."</string>
+    <string name="luck_7">"A big decision will lead to personal growth and happiness."</string>
+    <string name="luck_8">"A dream you've had for years will finally come true."</string>
+    <string name="luck_9">"Trust your intuition; it will guide you toward success."</string>
+    <string name="luck_10">"A hidden talent will emerge, bringing new opportunities."</string>
+
+
+
+
+
+</resources>
