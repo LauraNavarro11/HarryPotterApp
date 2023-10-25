@@ -6,7 +6,7 @@
 * [Retrofit](https://github.com/square/retrofit)
 * [HarryAPI](https://hp-api.onrender.com/)
 
-### En esta app se encuentra:
+### In this application you will find:
 
   <br />
 
